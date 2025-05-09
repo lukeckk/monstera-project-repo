@@ -1,3 +1,5 @@
+Demo link : https://kcheng.greenriverdev.com/328/monstera-project/
+
 <h1>Monstera</h1>
 An online plant watering tracker that implements a log in and sign up feature that allows you to either sign in as a member. Non-member has the ability to browse our comprehensive plant dictionary to better understand their plant’s needs. Member will have access to the ability to add plant to their own library and set up water reminder depending on each plant’s watering period.
 
